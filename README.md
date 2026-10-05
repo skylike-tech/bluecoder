@@ -24,7 +24,7 @@ BlueCoder
 ├── CLI
 │   └── Nim
 │
-├── Desktop UI
+├── Desktop UI (coming soon)
 │   └── Tauri
 │
 └── Providers
